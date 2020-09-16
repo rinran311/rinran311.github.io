@@ -1,0 +1,4 @@
+body {
+    cursor: url(../img/mouse3.png), default;
+    /* Change the hotspot - cursor: url(crosshair.cur) 0 0, default; */    
+}
