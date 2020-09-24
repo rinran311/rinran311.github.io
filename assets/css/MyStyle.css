@@ -1,0 +1,9 @@
+body {
+    cursor: url(../img/mouse3.png), default;
+    /* Change the hotspot - cursor: url(crosshair.cur) 0 0, default; */    
+}
+
+div,.btn,img,a {
+    cursor: url(../img/mousetouch.png), default;
+    /* Change the hotspot - cursor: url(crosshair.cur) 0 0, default; */    
+}
